@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+https://carsintro.github.io/home-insurance/sitemapx.xml
